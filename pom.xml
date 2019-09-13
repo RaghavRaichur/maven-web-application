@@ -92,12 +92,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.52.228:9980/raghav/repository/paytm-release/</url>
+	      <url>http://35.154.64.144:9980/raghav/repository/paytm-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.52.228:9980/raghav/repository/paytm-snapshot/</url>
+	      <url>http://35.154.64.144:9980/raghav/repository/paytm-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
